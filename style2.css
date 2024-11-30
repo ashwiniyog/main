@@ -1,0 +1,27 @@
+.card{
+    width:700px;
+    margin:30px auto;
+    position:relative;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 20px;
+}
+.card-img{
+    width:100%;
+    border-radius:20px;
+    
+}
+.card-header{
+    position:absolute;
+    text-align: center;
+    top:0;
+    margin-top: 150px;
+    color:white;
+    
+}
+.btn{
+    border-radius: 20px;
+    width:150px;
+    border:none;
+    height:30px;
+}
+

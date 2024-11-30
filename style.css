@@ -1,0 +1,131 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.box-model{
+    border:1px soild lightgray;
+    width:500px;
+    background-color:rgb(47, 255, 127) ;
+    padding:20px;
+    border-radius:10px;
+    margin:50px auto;
+    height:250px;
+    padding-top:75px;
+}
+.btn{
+    background-color: white;
+    border: none;
+    padding:10px;
+    border-radius:40px;
+    width:200px;
+    height:40px;
+    font-weight:bold;
+}
+.text-size{
+    font-size:x-small;
+}
+.profile{
+    border:1px solid lightgrey;
+    width:500px;
+    padding:20px;
+    border-radius: 10px;
+    margin:50px auto;
+    height:500px
+    padding-top:75px;
+}
+.box-img2{
+    width:75px;
+    border-radius:50px;
+    margin-left: 30px;
+}
+.box-img{
+    width:75px;
+    border-radius:50px;
+    
+}
+.text{
+    font-size: x-large;
+    font-weight:bold;
+}
+.text2{
+    font-size:large;
+    font-weight:500px;
+    color:gray
+}
+.color
+{
+    color: blue;
+}
+.footer{
+    border-top:1px solid lightgray;
+}
+.subscription{
+    border:1px solid gray;
+    width:350px;
+    height:50px;
+    margin:50px auto;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.img{
+    width:100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.sub2{
+    padding:20px;
+    border-left:1px solid lightgray;
+    border-right:1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius:20px ;
+}
+.txt-color{
+    color:gray
+}
+.btn2
+{
+    color:blue;
+    border:lightgray;
+    width:200px;
+    height:40px;
+    border-radius:10px;
+}
+.login{
+    border-top:2px solid black;
+    width:300px;
+    text-align: center;
+    margin:50px auto;
+    height:250px;
+
+}
+.input{
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.btn3{
+    background-color: black;
+    color: white;
+    border-radius:30px;
+    width:200px;
+    height:50px;
+
+}
+.txt1{
+   font-size:small;
+   color:grey;
+}
+.txt2{
+    font-size:small;
+ color:gray
+}
+.txt3{
+
+    font-size:xx-small;
+}
